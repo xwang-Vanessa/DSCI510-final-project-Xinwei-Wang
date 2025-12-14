@@ -1,0 +1,17 @@
+Baseline (Nov 2015–2024) for LA daily precipitation (mm)
+days_used: 300
+mean_mm: 0.05783333333333334
+std_mm: 0.35059136548916253
+p50_mm: 0.0
+p75_mm: 0.0
+p90_mm: 0.0
+p95_mm: 0.18
+
+Nov 2024 precipitation summary
+days_used: 30
+mean_mm: 0.002
+total_mm: 0.06
+max_mm: 0.03
+
+Anomaly cutoff: z >= 2.0
+anomaly_days_count: 0
